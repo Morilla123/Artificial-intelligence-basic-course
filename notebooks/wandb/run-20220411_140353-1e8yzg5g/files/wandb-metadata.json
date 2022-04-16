@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-04-11T17:04:15.934406",
+    "startedAt": "2022-04-11T17:03:53.579430",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9008",
+        "--control=9006",
+        "--hb=9005",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"3f1c3bf6-d286-46c1-a138-7af55de381ff\"",
+        "--shell=9007",
+        "--transport=\"tcp\"",
+        "--iopub=9009",
+        "--f=C:\\Users\\inu\\AppData\\Local\\Temp\\tmp-6896FKGbmUHhDrXB.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "DESKTOP-8FI27JI",
+    "username": "inu",
+    "executable": "C:\\Users\\inu\\miniconda3\\envs\\Sasha\\python.exe"
+}
